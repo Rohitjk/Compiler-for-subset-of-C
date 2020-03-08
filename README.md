@@ -41,6 +41,6 @@ chmod -x compile
 
 ## Built With
 
-*LEX
+* LEX
 * YACC
 
